@@ -1,0 +1,35 @@
+# Keil MDK build outputs
+Listings/
+Objects/
+*.lst
+*.obj
+*.o
+*.d
+
+# Keil user-specific config
+*.uvguix.*
+*.uvgui.*
+*.uvoptx.backup
+
+# Keil debug config
+DebugConfig/
+JLinkLog.txt
+*.jlink
+
+# Event recorder
+*.scvd
+
+# IDE temp
+*.bak
+*.ddk
+*.edk
+*.lnp
+*.map
+*.htm
+*.iex
+*.dep
+*.crf
+
+# OS
+Thumbs.db
+.DS_Store
