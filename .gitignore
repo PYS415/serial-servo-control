@@ -30,6 +30,9 @@ JLinkLog.txt
 *.dep
 *.crf
 
+# Claude Code local settings (contains secrets)
+.claude/settings.local.json
+
 # OS
 Thumbs.db
 .DS_Store
